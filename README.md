@@ -1,3 +1,3 @@
 # Nea-bill-calculator
 For 60 amp line 
-Price
+Price is upto date as of today
